@@ -77,13 +77,10 @@ The project uses five interconnected datasets:
 
 A separate data dictionary is included to document dataset attributes, data types, primary keys, relationships and field descriptions.
 
-## Tools & Technologies
+## Tools & Technologies:
 
-- **Microsoft Excel:** Data analysis, dashboard development, KPI calculations and data visualization.
+- **Microsoft Excel:** PivotTables, Pivot Charts, Excel Formulas, KPI Calculations, Interactive Dashboard, Data Analysis
 - **CSV Datasets:** Structured data for operational, customer and financial analysis.
-
-## Project Files
-
 
 ## Expected Business Outcomes
 
