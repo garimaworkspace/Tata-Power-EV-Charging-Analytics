@@ -97,7 +97,3 @@ These insights can support infrastructure planning, investment prioritization an
 ---
 
 **Project Domain:** Data Analytics | Electric Vehicle Infrastructure | Business Intelligence | Financial Analysis
-
-**Organization:** Tata Power (Case Study)
-
-**Location:** Bengaluru, India
